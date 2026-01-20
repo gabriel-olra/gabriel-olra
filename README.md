@@ -24,11 +24,10 @@ Sou apaixonado por tecnologia e estou em constante evolução na área de **dese
 ## 🛠️ Tecnologias & Ferramentas
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=express.js&logoColor=white" />
+  
 </p>
 
 <p>
@@ -51,8 +50,8 @@ Sou apaixonado por tecnologia e estou em constante evolução na área de **dese
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabriel-olra&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-olra&layout=compact" />
 </p>
 
 > ℹ️ Substitua `SEU_USUARIO_GITHUB` pelo seu username do GitHub.
@@ -71,12 +70,12 @@ Sou apaixonado por tecnologia e estou em constante evolução na área de **dese
 ## 📫 Como me encontrar
 
 <p>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/gabriel-olra">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-📧 Email: *(adicione aqui seu contato profissional)*
+📧 Email: igabriel.oliveira@gmail.com
 
 ---
 
