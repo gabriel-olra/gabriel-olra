@@ -1,23 +1,23 @@
 # 👋 Olá, eu sou o Gabriel Oliveira
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Evolu%C3%A7%C3%A3o-blue" />
-  <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Software-informational" />
-  <img src="https://img.shields.io/badge/GitHub-Ativo-success" />
+  <img src="https://img.shields.io/badge/Status-Estudando%20Ativamente-blue" />
+  <img src="https://img.shields.io/badge/Foco-Backend%20com%20Node.js-informational" />
+  <img src="https://img.shields.io/badge/Roadmap-Em%20Progresso-success" />
 </p>
 
-💻 **Entusiasta de Desenvolvimento de Software e Tecnologia**
+💻 **Estudante de Desenvolvimento de Software**
 
-Sou apaixonado por tecnologia e estou em constante evolução na área de **desenvolvimento de software**, com foco em **boas práticas de código**, **organização de projetos** e **aprendizado contínuo**. Utilizo o GitHub como um espaço para aprender, experimentar, documentar minha evolução e compartilhar projetos.
+Sou apaixonado por tecnologia e estou em constante evolução na área de **desenvolvimento de software**, com foco em **boas práticas de código**, **organização de projetos** e **aprendizado contínuo**. Utilizo o GitHub como um espaço para documentar minha evolução e consolidar conhecimento através da prática.
 
 ---
 
 ## 🚀 Sobre mim
 
-* 🎓 Estudante e entusiasta da área de **Tecnologia da Informação**
-* 🧠 Focado em escrever **código limpo**, bem estruturado e de fácil manutenção
-* 📚 Estudando arquitetura de software, padrões e boas práticas
-* 💼 Buscando oportunidades para crescer profissionalmente na área de desenvolvimento
+- 🎓 Estudante de **Sistemas de Informaçao**
+- 🧠 Foco em **código limpo**, legível e bem estruturado
+- 📚 Estudando backend, arquitetura e padrões de projeto
+- 💼 Em busca de oportunidades como **desenvolvedor júnior / trainee**
 
 ---
 
@@ -26,8 +26,7 @@ Sou apaixonado por tecnologia e estou em constante evolução na área de **dese
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=express.js&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
 <p>
@@ -37,13 +36,33 @@ Sou apaixonado por tecnologia e estou em constante evolução na área de **dese
 
 ---
 
+## 📚 Status de Estudos
+
+- ✅ Formação Node.js Fundamentals
+- 🔄 Formação TypeScript Fullstack Developer
+- ⏳ Formação Quality Assurance (QA) Experience
+- ⏳ Formação React Native Developer
+
+---
+
+## 🧭 Roadmap de Aprendizado
+
+- 🔹 Consolidar **APIs REST com Node.js e Express**
+- 🔹 Aplicar **Clean Code** e boas práticas
+- 🔹 Aprender **bancos de dados** e integração com backend
+- 🔹 Introdução a **testes automatizados**
+- 🔹 Criar projetos completos do zero
+- 🔹 Preparação para oportunidades profissionais
+
+---
+
 ## 📂 O que você vai encontrar aqui
 
-* 📌 Projetos de estudo e prática
-* 🧪 Experimentos com código
-* 🧠 Repositórios focados em aprendizado
-* 📄 Documentações e READMEs bem estruturados
-* 🔄 Evolução constante dos projetos
+- 📌 Projetos de estudo
+- 🧪 Experimentos práticos
+- 🧠 Repositórios focados em aprendizado
+- 📄 READMEs claros e bem documentados
+- 🔄 Evolução contínua dos projetos
 
 ---
 
@@ -53,17 +72,6 @@ Sou apaixonado por tecnologia e estou em constante evolução na área de **dese
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabriel-olra&show_icons=true&theme=default" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-olra&layout=compact" />
 </p>
-
-> ℹ️ Substitua `SEU_USUARIO_GITHUB` pelo seu username do GitHub.
-
----
-
-## 📈 Objetivos
-
-* Evoluir como **desenvolvedor de software**
-* Construir projetos sólidos e bem documentados
-* Consolidar fundamentos em desenvolvimento backend e frontend
-* Conquistar oportunidades profissionais na área de TI
 
 ---
 
@@ -81,6 +89,7 @@ Sou apaixonado por tecnologia e estou em constante evolução na área de **dese
 
 ## ⭐ Considerações finais
 
-Se você chegou até aqui, fique à vontade para explorar meus repositórios. Sugestões, feedbacks e contribuições são sempre bem-vindos!
+Este perfil representa minha **jornada de aprendizado** em desenvolvimento de software.  
+Feedbacks, sugestões e contribuições são sempre bem-vindos!
 
-> "Aprender a programar é um processo contínuo — e cada commit faz parte da jornada." 🚀
+> "Consistência nos estudos hoje é oportunidade amanhã." 🚀
