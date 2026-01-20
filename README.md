@@ -42,6 +42,8 @@ Sou apaixonado por tecnologia e estou em constante evolução na área de **dese
 - 🔄 Formação TypeScript Fullstack Developer
 - ⏳ Formação Quality Assurance (QA) Experience
 - ⏳ Formação React Native Developer
+- ⏳ Docker Fundamentals
+- ⏳ Formação CI/CD com GITLAB
 
 ---
 
