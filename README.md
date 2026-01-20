@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Roadmap-Em%20Progresso-success" />
 </p>
 
-💻 **Estudante de Desenvolvimento de Software**
+💻 **Estudante de Sistemas de Informaçao**
 
 Sou apaixonado por tecnologia e estou em constante evolução na área de **desenvolvimento de software**, com foco em **boas práticas de código**, **organização de projetos** e **aprendizado contínuo**. Utilizo o GitHub como um espaço para documentar minha evolução e consolidar conhecimento através da prática.
 
