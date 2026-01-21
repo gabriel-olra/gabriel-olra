@@ -27,9 +27,12 @@ Sou apaixonado por tecnologia e estou em constante evolução na área de **dese
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Jjava&logoColor=white" />
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -71,7 +74,6 @@ Sou apaixonado por tecnologia e estou em constante evolução na área de **dese
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabriel-olra&show_icons=true&theme=default" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-olra&layout=compact" />
 </p>
 
@@ -80,12 +82,18 @@ Sou apaixonado por tecnologia e estou em constante evolução na área de **dese
 ## 📫 Como me encontrar
 
 <p>
-  <a href="https://www.linkedin.com/gabriel-olra">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/gabriel-olra">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/gabriel.olra">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/gabriel.olra">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
   </a>
 </p>
 
-📧 Email: igabriel.oliveira@gmail.com
+📧 **Email:** igabriel.oliveira@gmail.com
 
 ---
 
