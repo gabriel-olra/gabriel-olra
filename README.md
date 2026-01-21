@@ -29,6 +29,7 @@ Utilizo o GitHub para documentar minha evolução e consolidar conhecimento atra
   <img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-111111?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-111111?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=white" />
 </p>
 
 <p>
