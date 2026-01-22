@@ -35,13 +35,14 @@ Utilizo o GitHub para documentar minha evolução e consolidar conhecimento atra
   <img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Chakra-111111?style=flat&logo=chakra&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-111111?style=flat&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Postman-111111?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SoapUi-111111?style=flat&logo=soapui&logoColor=white" />
 </p>
 
 ---
