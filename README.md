@@ -33,6 +33,8 @@ Utilizo o GitHub para documentar minha evolução e consolidar conhecimento atra
   <img src="https://img.shields.io/badge/Html-111111?style=flat&logo=html&logoColor=white" />
   <img src="https://img.shields.io/badge/Css-111111?style=flat&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chakra-111111?style=flat&logo=chakra&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-111111?style=flat&logo=jest&logoColor=white" />
 </p>
 
 <p>
