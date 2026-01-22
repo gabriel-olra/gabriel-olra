@@ -28,12 +28,12 @@ Utilizo o GitHub para documentar minha evolução e consolidar conhecimento atra
   <img src="https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-111111?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-111111?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-111111?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-111111?style=flat&logo=html&logoColor=white" />
+  <img src="https://img.shields.io/badge/Html5-111111?style=flat&logo=html&logoColor=white" />
   <img src="https://img.shields.io/badge/Css-111111?style=flat&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/chakraui-111111?style=flat&logo=chakra&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChakraUi-111111?style=flat&logo=chakra&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-111111?style=flat&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-111111?style=flat&logo=mongodb&logoColor=white" />
 </p>
@@ -42,7 +42,7 @@ Utilizo o GitHub para documentar minha evolução e consolidar conhecimento atra
   <img src="https://img.shields.io/badge/Postman-111111?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/soapui-111111?style=flat&logo=soapui&logoColor=white" />
+  <img src="https://img.shields.io/badge/SoapUi-111111?style=flat&logo=soapui&logoColor=white" />
 </p>
 
 ---
