@@ -84,24 +84,6 @@ Utilizo o GitHub para documentar minha evolução e consolidar conhecimento atra
 
 ---
 
-## 📫 Contato
-
-<p>
-  <a href="https://www.linkedin.com/in/gabriel-olra">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/gabriel.olra">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://discordapp.com/users/gabriel.olra">
-    <img src="https://img.shields.io/badge/Discord-111111?style=flat&logo=discord&logoColor=white" />
-  </a>
-</p>
-
-📧 igabriel.oliveira@gmail.com
-
----
-
 ## ⭐ Considerações finais
 
 Este perfil representa minha **jornada de aprendizado** em desenvolvimento de software.  
