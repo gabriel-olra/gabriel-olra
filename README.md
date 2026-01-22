@@ -26,14 +26,14 @@ Utilizo o GitHub para documentar minha evolução e consolidar conhecimento atra
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=nodejs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-111111?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-111111?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Html5-111111?style=flat&logo=html&logoColor=white" />
-  <img src="https://img.shields.io/badge/Css-111111?style=flat&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChakraUi-111111?style=flat&logo=chakra&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chakra_UI-111111?style=flat&logo=chakraui&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-111111?style=flat&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-111111?style=flat&logo=mongodb&logoColor=white" />
 </p>
