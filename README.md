@@ -50,11 +50,15 @@ Utilizo o GitHub para documentar minha evolução e consolidar conhecimento atra
 ## 📚 Status de Estudos
 
 - ✅ Node.js Fundamentals  
-- 🔄 TypeScript Fullstack Developer  
-- ⏳ Quality Assurance (QA) Experience  
+- 🔄 TypeScript Fullstack Developer
+- ⏳ SQL Database Specialist
+- ⏳ React Developer
+- ⏳ Quality Assurance Experience  
 - ⏳ React Native Developer  
 - ⏳ Docker Fundamentals  
-- ⏳ CI/CD com GitLab  
+- ⏳ CI/CD com GitLab
+- ⏳ DevOps Fundamentals
+- ⏳ GitHub Certification
 
 ---
 
