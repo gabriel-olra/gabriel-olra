@@ -47,6 +47,23 @@ Utilizo o GitHub para documentar minha evolução e consolidar conhecimento atra
 
 ---
 
+## 📖 Livros de Estudo
+
+Acompanhando minha evolução técnica, também mantenho estudos através de livros clássicos da área de desenvolvimento de software:
+
+- 📘 **Código Limpo** — *Robert C. Martin*  
+  🔄 Lendo atualmente, com foco em boas práticas, legibilidade e manutenibilidade de código.
+
+- 📗 **Arquitetura Limpa** — *Robert C. Martin*  
+  ⏳ Planejado para leitura, com foco em arquitetura de software e separação de responsabilidades.
+
+- 📙 **Engenharia de Software** — *Ian Sommerville / Pressman*  
+  ⏳ Planejado para leitura, visando fortalecer fundamentos de engenharia, processos e qualidade de software.
+
+> 📌 *Leituras alinhadas com prática, projetos reais e evolução contínua.*
+
+---
+
 ## 📚 Status de Estudos
 
 - ✅ Node.js Fundamentals  
