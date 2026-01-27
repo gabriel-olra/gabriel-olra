@@ -8,17 +8,17 @@
 
 💻 **Estudante de Sistemas de Informação**
 
-Sou apaixonado por tecnologia e estou em constante evolução na área de **desenvolvimento de software**, com foco em **boas práticas de código**, **organização de projetos** e **aprendizado contínuo**.  
+Sou apaixonado por tecnologia e estou em constante evolução na área de **desenvolvimento de software**, com foco em **boas práticas de código**, **organização de projetos** e **aprendizado contínuo**.
 Utilizo o GitHub para documentar minha evolução e consolidar conhecimento através da prática.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de **Sistemas de Informação**
-- 🧠 Foco em **código limpo**, legível e bem estruturado
-- 📚 Estudando **backend**, arquitetura e padrões de projeto
-- 💼 Em busca de oportunidades como **desenvolvedor júnior / trainee**
+* 🎓 Estudante de **Sistemas de Informação**
+* 🧠 Foco em **código limpo**, legível e bem estruturado
+* 📚 Estudando **backend**, arquitetura e padrões de projeto
+* 💼 Em busca de oportunidades como **desenvolvedor júnior / trainee**
 
 ---
 
@@ -51,66 +51,91 @@ Utilizo o GitHub para documentar minha evolução e consolidar conhecimento atra
 
 Acompanhando minha evolução técnica, também mantenho estudos através de livros clássicos da área de desenvolvimento de software:
 
-- 📘 **Código Limpo** — *Robert C. Martin*  
+* **Código Limpo** — *Robert C. Martin*
   🔄 Lendo atualmente, com foco em boas práticas, legibilidade e manutenibilidade de código.
 
-- 📗 **Arquitetura Limpa** — *Robert C. Martin*  
+* **Arquitetura Limpa** — *Robert C. Martin*
   ⏳ Planejado para leitura, com foco em arquitetura de software e separação de responsabilidades.
 
-- 📙 **Engenharia de Software** — *Ian Sommerville / Pressman*  
+* **Engenharia de Software** — *Ian Sommerville / Pressman*
   ⏳ Planejado para leitura, visando fortalecer fundamentos de engenharia, processos e qualidade de software.
 
-> 📌 *Leituras alinhadas com prática, projetos reais e evolução contínua.*
+> *Leituras alinhadas com prática, projetos reais e evolução contínua.*
 
 ---
 
 ## 📚 Status de Estudos
 
-- ✅ Node.js Fundamentals  
-- 🔄 TypeScript Fullstack Developer
-- ⏳ SQL Database Specialist
-- ⏳ React Developer
-- ⏳ Quality Assurance Experience  
-- ⏳ React Native Developer  
-- ⏳ Docker Fundamentals  
-- ⏳ CI/CD com GitLab
-- ⏳ DevOps Fundamentals
-- ⏳ GitHub Certification
+### Backend
+
+* ✅ Node.js Fundamentals
+* 🔄 TypeScript Fullstack Developer
+* ⏳ SQL Database Specialist
+
+### Frontend & Mobile
+
+* ⏳ React Developer
+* ⏳ React Native Developer
+
+### Qualidade & DevOps
+
+* ⏳ Quality Assurance Experience
+* ⏳ Docker Fundamentals
+* ⏳ DevOps Fundamentals
+* ⏳ CI/CD com GitLab
+
+### Versionamento & Plataforma
+
+* ⏳ GitHub Certification
 
 ---
 
 ## 🧭 Roadmap de Aprendizado
 
-- Consolidar **APIs REST com Node.js e Express**
-- Aplicar **Clean Code** e boas práticas
-- Aprender **bancos de dados** e integração com backend
-- Introdução a **testes automatizados**
-- Criar projetos completos do zero
-- Preparação para oportunidades profissionais
+* Consolidar **APIs REST com Node.js e Express**
+* Aplicar **Clean Code** e boas práticas
+* Aprender **bancos de dados** e integração com backend
+* Introdução a **testes automatizados**
+* Criar projetos completos do zero
+* Preparação para oportunidades profissionais
 
 ---
 
 ## 📂 O que você vai encontrar aqui
 
-- Projetos de estudo
-- Experimentos práticos
-- Repositórios focados em aprendizado
-- READMEs claros e bem documentados
-- Evolução contínua dos projetos
+* Projetos de estudo
+* Experimentos práticos
+* Repositórios focados em aprendizado
+* READMEs claros e bem documentados
+* Evolução contínua dos projetos
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-olra&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-olra&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-olra&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-olra&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+### 📌 O que esses números mostram
+
+* **Consistência de contribuição** (streak)
+* **Volume real de código entregue** (commits e atividades)
+* **Principais linguagens utilizadas** nos projetos
 
 ---
 
-## ⭐ Considerações finais
+## Considerações finais
 
-Este perfil representa minha **jornada de aprendizado** em desenvolvimento de software.  
+Este perfil representa minha **jornada de aprendizado** em desenvolvimento de software.
 Feedbacks, sugestões e contribuições são sempre bem-vindos.
 
 > *Consistência nos estudos hoje é oportunidade amanhã.*
