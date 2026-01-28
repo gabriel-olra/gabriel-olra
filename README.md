@@ -50,7 +50,7 @@ Este repositório reflete essa convergência entre **Telecom + Redes + Sistemas*
 
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=nodejs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodejs-111111?style=flat&logo=nodejs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-111111?style=flat&logo=java&logoColor=white" />
 </p>
