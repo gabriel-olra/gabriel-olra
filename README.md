@@ -2,112 +2,109 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Estudando-111111?style=flat" />
-  <img src="https://img.shields.io/badge/Foco-Backend%20Node.js-111111?style=flat" />
-  <img src="https://img.shields.io/badge/Roadmap-Em%20Progresso-111111?style=flat" />
+  <img src="https://img.shields.io/badge/Foco-Redes%20%26%20Infraestrutura-111111?style=flat" />
+  <img src="https://img.shields.io/badge/Diferencial-Programa%C3%A7%C3%A3o%20para%20Infra-111111?style=flat" />
 </p>
 
-💻 **Estudante de Sistemas de Informação**
+💻 **Estudante de Sistemas de Informação | Telecomunicações | Redes & Infraestrutura**
 
-Sou apaixonado por tecnologia e estou em constante evolução na área de **desenvolvimento de software**, com foco em **boas práticas de código**, **organização de projetos** e **aprendizado contínuo**.
-Utilizo o GitHub para documentar minha evolução e consolidar conhecimento através da prática.
+Sou profissional de tecnologia com base sólida em **Sistemas de Informação**, experiência em **suporte técnico**, **desenvolvimento de sistemas** e atuação atual em **telecomunicações de campo**. Utilizo este GitHub como laboratório prático para consolidar conhecimentos em **redes, infraestrutura e automação**, mantendo a programação como diferencial técnico — não como foco exclusivo.
 
 ---
 
 ## 🚀 Sobre mim
 
 * 🎓 Estudante de **Sistemas de Informação**
-* 🧠 Foco em **código limpo**, legível e bem estruturado
-* 📚 Estudando **backend**, arquitetura e padrões de projeto
-* 💼 Em busca de oportunidades como **desenvolvedor júnior / trainee**
+* 🌐 Atuação em **Telecomunicações de Campo** (infraestrutura e conectividade)
+* 🧠 Perfil analítico, focado em **troubleshooting**, documentação e melhoria contínua
+* 🧩 Programação aplicada como **ferramenta para automação e integração**
+* 🎯 Objetivo profissional: **Analista de Redes Jr / Infraestrutura**
+
+---
+
+## 🧭 Direcionamento de Carreira
+
+Meu foco atual é a **área de redes e infraestrutura**, onde aplico conhecimentos de sistemas, suporte e conectividade adquiridos ao longo da minha trajetória. A **programação permanece como diferencial estratégico**, especialmente para:
+
+* Automação de tarefas operacionais
+* Integração entre sistemas e serviços
+* Monitoramento e análise de ambientes
+
+Este repositório reflete essa convergência entre **Telecom + Redes + Sistemas**.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
+### 🌐 Redes, Infraestrutura & Sistemas
+
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=nodejs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-111111?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-111111?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chakra_UI-111111?style=flat&logo=chakraui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-111111?style=flat&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-111111?style=flat" />
+  <img src="https://img.shields.io/badge/Redes-111111?style=flat" />
+  <img src="https://img.shields.io/badge/Telecomunica%C3%A7%C3%B5es-111111?style=flat" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=white" />
 </p>
+
+### 💻 Programação (diferencial técnico)
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=nodejs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-111111?style=flat&logo=java&logoColor=white" />
+</p>
+
+### 🧪 Ferramentas de apoio
 
 <p>
   <img src="https://img.shields.io/badge/Postman-111111?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/SoapUi-111111?style=flat&logo=soapui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-111111?style=flat&logo=jest&logoColor=white" />
 </p>
-
----
-
-## 📖 Livros de Estudo
-
-Acompanhando minha evolução técnica, também mantenho estudos através de livros clássicos da área de desenvolvimento de software:
-
-* **Código Limpo** — *Robert C. Martin*
-  🔄 Lendo atualmente, com foco em boas práticas, legibilidade e manutenibilidade de código.
-
-* **Arquitetura Limpa** — *Robert C. Martin*
-  ⏳ Planejado para leitura, com foco em arquitetura de software e separação de responsabilidades.
-
-* **Engenharia de Software** — *Ian Sommerville / Pressman*
-  ⏳ Planejado para leitura, visando fortalecer fundamentos de engenharia, processos e qualidade de software.
-
-> *Leituras alinhadas com prática, projetos reais e evolução contínua.*
 
 ---
 
 ## 📚 Status de Estudos
 
-### Backend
+### 🌐 Redes & Infraestrutura (prioridade)
+
+* 🔄 Fundamentos de Redes (TCP/IP, Subnetting)
+* 🔄 Linux para Infraestrutura
+* ⏳ CCNA (em preparação)
+* ⏳ Monitoramento e Troubleshooting de Redes
+
+### 🧠 Programação aplicada à Infra
+
+* 🔄 Python para automação
+* 🔄 APIs e integração entre serviços
+* ⏳ Scripts para redes e infraestrutura
+
+### 💻 Desenvolvimento (base técnica)
 
 * ✅ Node.js Fundamentals
-* 🔄 TypeScript Fullstack Developer
-* ⏳ SQL Database Specialist
-
-### Frontend & Mobile
-
-* ⏳ React Developer
-* ⏳ React Native Developer
-
-### Qualidade & DevOps
-
-* ⏳ Quality Assurance Experience
-* ⏳ Docker Fundamentals
-* ⏳ DevOps Fundamentals
-* ⏳ CI/CD com GitLab
-
-### Versionamento & Plataforma
-
-* ⏳ GitHub Certification
+* 🔄 TypeScript
+* ⏳ SQL Databases
 
 ---
 
-## 🧭 Roadmap de Aprendizado
+## 🧪 Roadmap Prático
 
-* Consolidar **APIs REST com Node.js e Express**
-* Aplicar **Clean Code** e boas práticas
-* Aprender **bancos de dados** e integração com backend
-* Introdução a **testes automatizados**
-* Criar projetos completos do zero
-* Preparação para oportunidades profissionais
+* Consolidar fundamentos de **redes e conectividade IP**
+* Criar **labs de redes** (simulações e documentação)
+* Desenvolver **scripts de automação** para tarefas de infraestrutura
+* Integrar programação com **monitoramento e operações**
+* Evoluir para atuação em **NOC / Redes / Infraestrutura**
 
 ---
 
 ## 📂 O que você vai encontrar aqui
 
-* Projetos de estudo
-* Experimentos práticos
-* Repositórios focados em aprendizado
-* READMEs claros e bem documentados
-* Evolução contínua dos projetos
+* Labs de redes e infraestrutura
+* Scripts de automação
+* Projetos de estudo aplicados
+* Documentação técnica clara
+* Evolução contínua orientada ao mercado
 
 ---
 
@@ -125,17 +122,10 @@ Acompanhando minha evolução técnica, também mantenho estudos através de liv
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-olra&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-### 📌 O que esses números mostram
-
-* **Consistência de contribuição** (streak)
-* **Volume real de código entregue** (commits e atividades)
-* **Principais linguagens utilizadas** nos projetos
-
 ---
 
 ## Considerações finais
 
-Este perfil representa minha **jornada de aprendizado** em desenvolvimento de software.
-Feedbacks, sugestões e contribuições são sempre bem-vindos.
+Este perfil representa minha **evolução consciente para a área de redes e infraestrutura**, mantendo a programação como diferencial técnico e base de apoio.
 
-> *Consistência nos estudos hoje é oportunidade amanhã.*
+> *Infraestrutura sólida, sistemas bem compreendidos e automação inteligente constroem carreiras duradouras.*
