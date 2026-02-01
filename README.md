@@ -96,14 +96,6 @@ Minha transição profissional está focada em **Backend Python**, utilizando mi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-olra&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-olra&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-olra&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
