@@ -109,11 +109,4 @@ Minha transição profissional está focada em **Backend Python**, utilizando mi
 
 ---
 
-## 📫 Contato
-
-* 💼 LinkedIn: linkedin.com/in/seu-linkedin
-* 📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
-
----
-
 > *Backend bem construído começa com lógica clara, boas práticas e entendimento do ambiente onde roda.*
