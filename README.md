@@ -1,70 +1,92 @@
 # 👋 Gabriel Oliveira
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Evolu%C3%A7%C3%A3o-111111?style=flat" />
-  <img src="https://img.shields.io/badge/Foco-Backend%20Python-111111?style=flat" />
-  <img src="https://img.shields.io/badge/Diferencial-Infra%20%26%20Redes-111111?style=flat" />
+  <img src="https://img.shields.io/badge/Status-Atuando%20com%20Suporte%20N2-111111?style=flat" />
+  <img src="https://img.shields.io/badge/Foco-Sistemas%20em%20Produ%C3%A7%C3%A3o-111111?style=flat" />
+  <img src="https://img.shields.io/badge/Especialidade-Troubleshooting-111111?style=flat" />
 </p>
 
-💻 **Analista de Suporte | Infraestrutura e Redes**
-🌐 Monitoramento com Zabbix | Troubleshooting**
+💻 **Analista de Suporte N2 | Sistemas em Produção | Infraestrutura & Redes**
+🌐 Monitoramento | Análise de Incidentes | Alta Disponibilidade
 
 ---
 
 ## 🚀 Sobre mim
 
-Profissional de tecnologia com formação técnica em Informática e cursando Sistemas de Informação, com atuação voltada para infraestrutura de TI, redes e suporte a ambientes produtivos.
+Profissional de tecnologia com experiência em **suporte a sistemas críticos em ambiente de produção**, atuando diretamente na análise, diagnóstico e resolução de incidentes.
 
-Experiência em suporte técnico e operação de sistemas, com forte atuação em análise e resolução de incidentes, troubleshooting e garantia da continuidade dos serviços.
+Atuação em ambiente corporativo de alta disponibilidade, prestando serviços para instituição financeira (**Banco do Estado de Sergipe**), com foco em:
 
-Vivência em ambiente corporativo crítico, prestando serviços para instituição financeira (Banco do Estado de Sergipe), com atuação em sistemas em produção, análise de falhas, identificação de causa raiz (RCA) e suporte a aplicações de alta disponibilidade.
+* 🔍 Troubleshooting e análise de falhas
+* 📊 Identificação de causa raiz (RCA)
+* ⚙️ Suporte a aplicações em produção
+* 🚨 Atuação em incidentes críticos e SLA
 
-Possuo experiência com conectividade IP, redes de acesso, configuração de equipamentos e diagnóstico de problemas, além de atuação em telecomunicações de campo, o que proporciona uma visão prática sobre infraestrutura, comunicação entre sistemas e confiabilidade operacional.
-
-Conhecimento em monitoramento de ambientes com Zabbix, sistemas Linux e análise de tráfego de rede, aplicando boas práticas de suporte, documentação e operação.
-
-Atuo com foco em oportunidades como Analista de TI, contribuindo diretamente para a estabilidade, performance e melhoria contínua dos ambientes**.
+Possuo experiência prática com **infraestrutura, redes e telecomunicações**, o que me permite ter uma visão completa do ambiente — da aplicação até a camada de rede.
 
 ---
 
-## 🧠 Tecnologias & Ferramentas
+## 🧠 Stack Técnica (focada em suporte)
 
-### 💻 Backend & Programação
-
-<p>
-  <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat" />
-  <img src="https://img.shields.io/badge/Django-111111?style=flat" />
-  <img src="https://img.shields.io/badge/REST%20API-111111?style=flat" />
-</p>
-
-### 🗄️ Banco de Dados
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=flat" />
-</p>
-
-### ⚙️ Ferramentas & Infra
+### ⚙️ Infraestrutura & Sistemas
 
 <p>
   <img src="https://img.shields.io/badge/Linux-111111?style=flat&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redes%20TCP/IP-111111?style=flat" />
+  <img src="https://img.shields.io/badge/DNS-111111?style=flat" />
+  <img src="https://img.shields.io/badge/Monitoramento%20(Zabbix)-111111?style=flat" />
+</p>
+
+### 🗄️ Banco de Dados (Suporte & Análise)
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-111111?style=flat" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql&logoColor=white" />
+</p>
+
+### 🔧 Ferramentas & Operação
+
+<p>
   <img src="https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-111111?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-111111?style=flat&logo=postman&logoColor=white" />
 </p>
 
+### 💻 Conhecimentos em Desenvolvimento (diferencial)
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs%20REST-111111?style=flat" />
+</p>
+
 ---
 
-## 🧭 Direcionamento de Carreira
+## 🧩 Experiência Prática
 
-Minha transição profissional está focada em **Analista de Suporte**, utilizando minha base em **infraestrutura e redes** como diferencial técnico para:
+* ✔ Suporte N2 em sistemas críticos de instituição financeira
+* ✔ Análise de logs e diagnóstico de falhas em produção
+* ✔ Investigação de problemas de conectividade e rede
+* ✔ Atuação com monitoramento e resposta a incidentes
+* ✔ Suporte a aplicações e integração entre sistemas
 
-* Melhor entendimento de ambientes de produção
-* Integração entre serviços
-* Comunicação entre sistemas
-* Deploy e observabilidade
+---
+
+## 📂 Projetos com foco em Suporte
+
+* 🔧 **Support Lab** → Simulação de incidentes reais e resolução
+* 🧪 **Troubleshooting Guide** → Diagnóstico de problemas comuns
+* 🐧 **Scripts de Suporte** → Automação e coleta de informações
+* 🗄️ **SQL para Suporte** → Queries para análise e investigação
+
+---
+
+## 🎯 Objetivo
+
+Atuar como **Analista de Suporte / Infraestrutura**, com foco em ambientes de produção, contribuindo para:
+
+* Estabilidade dos sistemas
+* Redução de incidentes
+* Melhoria contínua dos serviços
 
 ---
 
@@ -76,4 +98,4 @@ Minha transição profissional está focada em **Analista de Suporte**, utilizan
 
 ---
 
-> *Backend bem construído começa com lógica clara, boas práticas e entendimento do ambiente onde roda.*
+> *Sistemas estáveis não acontecem por acaso — são resultado de análise, diagnóstico e resposta eficiente a incidentes.*
