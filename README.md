@@ -82,12 +82,4 @@ Atuar como **Analista de Suporte / Infraestrutura**, com foco em ambientes de pr
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-olra&show_icons=true&theme=github_dark" />
-</p>
-
----
-
 > *Sistemas estáveis não acontecem por acaso — são resultado de análise, diagnóstico e resposta eficiente a incidentes.*
