@@ -22,7 +22,7 @@ Atuação em ambiente corporativo de alta disponibilidade, prestando serviços p
 * ⚙️ Suporte a aplicações em produção
 * 🚨 Atuação em incidentes críticos e SLA
 
-Possuo experiência prática com **infraestrutura, redes e telecomunicações**, o que me permite ter uma visão completa do ambiente — da aplicação até a camada de rede.
+Possuo experiência prática com **infraestrutura, redes e telecomunicações**, além de conhecimento em desenvolvimento, o que me permite entender melhor o comportamento das aplicações e acelerar o diagnóstico de problemas.
 
 ---
 
@@ -31,7 +31,6 @@ Possuo experiência prática com **infraestrutura, redes e telecomunicações**,
 ### ⚙️ Infraestrutura & Sistemas
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-111111?style=flat&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Redes%20TCP/IP-111111?style=flat" />
   <img src="https://img.shields.io/badge/DNS-111111?style=flat" />
   <img src="https://img.shields.io/badge/Monitoramento%20(Zabbix)-111111?style=flat" />
@@ -48,14 +47,15 @@ Possuo experiência prática com **infraestrutura, redes e telecomunicações**,
 
 <p>
   <img src="https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-111111?style=flat&logo=postman&logoColor=white" />
 </p>
 
-### 💻 Conhecimentos em Desenvolvimento (diferencial)
+### 💻 Desenvolvimento
 
 <p>
-  <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-111111?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/APIs%20REST-111111?style=flat" />
 </p>
 
@@ -68,15 +68,7 @@ Possuo experiência prática com **infraestrutura, redes e telecomunicações**,
 * ✔ Investigação de problemas de conectividade e rede
 * ✔ Atuação com monitoramento e resposta a incidentes
 * ✔ Suporte a aplicações e integração entre sistemas
-
----
-
-## 📂 Projetos com foco em Suporte
-
-* 🔧 **Support Lab** → Simulação de incidentes reais e resolução
-* 🧪 **Troubleshooting Guide** → Diagnóstico de problemas comuns
-* 🐧 **Scripts de Suporte** → Automação e coleta de informações
-* 🗄️ **SQL para Suporte** → Queries para análise e investigação
+* ✔ Apoio na análise de comportamento de APIs e serviços
 
 ---
 
