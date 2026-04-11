@@ -6,20 +6,24 @@
   <img src="https://img.shields.io/badge/Diferencial-Infra%20%26%20Redes-111111?style=flat" />
 </p>
 
-💻 **Backend Developer Júnior | Python • APIs REST • PostgreSQL**
-🌐 Background em **Infraestrutura, Redes e Telecomunicações**
+💻 **Analista de Suporte | Infraestrutura e Redes**
+🌐 Monitoramento com Zabbix | Troubleshooting**
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor backend em formação, com foco em **Python** e no desenvolvimento de **APIs REST**, aplicando boas práticas de organização, segurança e integração com bancos de dados.
+Profissional de tecnologia com formação técnica em Informática e cursando Sistemas de Informação, com atuação voltada para infraestrutura de TI, redes e suporte a ambientes produtivos.
 
-Possuo experiência prévia em **infraestrutura, redes e telecomunicações**, o que me proporciona uma visão completa dos sistemas — desde o código até o ambiente onde ele é executado.
+Experiência em suporte técnico e operação de sistemas, com forte atuação em análise e resolução de incidentes, troubleshooting e garantia da continuidade dos serviços.
 
-Utilizo este GitHub como ambiente prático para consolidar conhecimentos em **backend**, **automação** e **integrações**, sempre alinhado às demandas do mercado.
+Vivência em ambiente corporativo crítico, prestando serviços para instituição financeira (Banco do Estado de Sergipe), com atuação em sistemas em produção, análise de falhas, identificação de causa raiz (RCA) e suporte a aplicações de alta disponibilidade.
 
-🎯 **Objetivo profissional:** atuar como **Backend Developer Júnior (Python)**.
+Possuo experiência com conectividade IP, redes de acesso, configuração de equipamentos e diagnóstico de problemas, além de atuação em telecomunicações de campo, o que proporciona uma visão prática sobre infraestrutura, comunicação entre sistemas e confiabilidade operacional.
+
+Conhecimento em monitoramento de ambientes com Zabbix, sistemas Linux e análise de tráfego de rede, aplicando boas práticas de suporte, documentação e operação.
+
+Atuo com foco em oportunidades como Analista de TI, contribuindo diretamente para a estabilidade, performance e melhoria contínua dos ambientes**.
 
 ---
 
@@ -53,43 +57,14 @@ Utilizo este GitHub como ambiente prático para consolidar conhecimentos em **ba
 
 ---
 
-## 📂 Projetos em Destaque
-
-🔹 **APIs REST com Python**
-
-* CRUD completo
-* Integração com PostgreSQL
-* Autenticação e validação de dados
-* Organização em camadas (routers, services, repositories)
-
-🔹 **Projetos de Automação**
-
-* Scripts em Python para automação de tarefas
-* Integração com APIs e serviços
-* Aplicações voltadas a suporte e infraestrutura
-
-👉 *Confira os repositórios para mais detalhes técnicos.*
-
----
-
 ## 🧭 Direcionamento de Carreira
 
-Minha transição profissional está focada em **Backend Python**, utilizando minha base em **infraestrutura e redes** como diferencial técnico para:
+Minha transição profissional está focada em **Analista de Suporte**, utilizando minha base em **infraestrutura e redes** como diferencial técnico para:
 
 * Melhor entendimento de ambientes de produção
 * Integração entre serviços
 * Comunicação entre sistemas
 * Deploy e observabilidade
-
----
-
-## 📚 Em Evolução
-
-* 🔄 Python para Backend
-* 🔄 FastAPI / Django
-* 🔄 PostgreSQL e modelagem de dados
-* 🔄 Autenticação e segurança em APIs
-* 🔄 Docker e deploy básico
 
 ---
 
