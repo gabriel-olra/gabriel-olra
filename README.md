@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Especialidade-Troubleshooting-111111?style=flat" />
 </p>
 
-💻 **Analista de Suporte N2 | Sistemas em Produção | Infraestrutura & Redes**
+💻 **Suporte N2 | Sistemas em Produção | Infraestrutura & Redes**
 🌐 Monitoramento | Análise de Incidentes | Alta Disponibilidade
 
 ---
